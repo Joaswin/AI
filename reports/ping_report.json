@@ -1,0 +1,27 @@
+{
+    "file": "ping",
+    "sha256": null,
+    "prediction": {
+        "malware_family": "Backdoor",
+        "confidence": 0.64
+    },
+    "summary": {
+        "predicted_family": "Backdoor",
+        "confidence": 0.64,
+        "likely_behaviors": [
+            "No obvious malicious behavior detected from static analysis."
+        ],
+        "risk_level": "Low"
+    },
+    "technical_details": {
+        "features_extracted": {
+            "protocols": [],
+            "permissions": [],
+            "files": [],
+            "strings": [],
+            "imports": []
+        },
+        "functions_found": [],
+        "explanation": "Binary executable \u2013 static code explanation not available."
+    }
+}
